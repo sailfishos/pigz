@@ -3,7 +3,7 @@ Summary:       Parallel implementation of gzip
 Version:       2.3.3
 Release:       1
 Group:         Applications/File
-License:       ZLIB
+License:       zlib
 URL:           http://zlib.net/pigz/
 Source0:       %{name}-%{version}.tar.gz
 
