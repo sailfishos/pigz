@@ -1,3 +1,3 @@
 [submodule "pigz"]
 	path = pigz
-	url = https://git.merproject.org/mirror/pigz.git
+	url = https://github.com/sailfishos-mirror/pigz.git
